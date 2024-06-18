@@ -34,7 +34,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Davidson</code>, tenho 23 anos, moro em BH e sou Dev. Atualmente trabalho como <code>assistente de TI</code> e estou no 4° período de Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i>👨🏻‍💻<br />
+<i><b>Olá</b> :wave:, sou o <code>Daniel</code>, tenho 18 anos, moro em Contagem e estou no primeiro período do curso Ciência da Computação na Puc Minas. Atualmente trabalho como <code>assistente de TI</code> e estou no 4° período de Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i>👨🏻‍💻<br />
 </div>
 
 -----
