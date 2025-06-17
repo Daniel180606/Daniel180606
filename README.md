@@ -2,7 +2,7 @@
   <img width="100px" src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-221.gif" alt="Olá!" />
 </p>
 
-<h1>Olá!, Eu sou o <a href="https://github.com/Daniel180606">Daniel</a> <img height="30px" src="<p align="left">
+<h1>Olá!, Eu sou o <a href="https://github.com/Daniel180606">Daniel</a> 
   <img width="30px" src="https://www.icegif.com/wp-content/uploads/icegif-5550.gif" alt="Olá!" />
 </p>
 "></h1>
