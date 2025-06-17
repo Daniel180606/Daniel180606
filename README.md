@@ -1,278 +1,71 @@
------
+<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+<h1>Olá!, Eu sou o <a href="https://github.com/bernardovieirarocha">Bernardo</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+</h1>
 
-<div>
-<img align="center" alt="Header" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/headertech.jpg?raw=true"/>
-</div>
+### 📬 Contate-me
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/bernardovieirarocha)](https://github.com/bernardovieirarocha) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardovrocha/)](https://www.linkedin.com/in/bernardovrocha/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardo.rocha.676403@sga.pucminas.br)](mailto:bernardo.rocha.676403@sga.pucminas.br)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bbernardo.rocha/)](https://www.instagram.com/bbernardo.rocha/)
 
------
+### Um pouco sobre mim... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
-<td><a href="https://github.com/Daniel180606" target="_blank"><img src="https://github.com/Daniel180606/Daniel180606/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="mailto:davidson.afg@gmail.com" target="_blank"><img src="https://github.com/Daniel180606/Daniel180606/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://wa.me/5531992259540" target="_blank"><img src="https://github.com/Daniel180606/Daniel180606/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.instagram.com/davidson_faria/" target="_blank"><img src="https://github.com/Daniel180606/Daniel180606/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.linkedin.com/in/Daniel180606/" target="_blank"><img src="https://github.com/Daniel180606/Daniel180606/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://discordapp.com/users/287784703963168768" target="_blank"><img src="https://github.com/Daniel180606/Daniel180606/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://calendly.com/Daniel180606/" target="_blank"><img src="https://github.com/Daniel180606/Daniel180606/blob/main/img/calendar.png?raw=true" width="50px" height="50px"/></a>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-</table>
+Atualmente, estou cursando:
 
-</div>
-<div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Daniel</code>, tenho 18 anos, moro em Contagem e estou no segundo período do curso Ciência da Computação na Puc Minas. Atualmente trabalho como <code>assistente de TI</code> e estou no 4° período de Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i>👨🏻‍💻<br />
-</div>
+- Ciência da Computação [@Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br)  
+- Engenharia de Computação [@Centro Federal de Educação Tecnológica de Minas Gerais](https://www.cefetmg.br)
 
------
+Sou um entusiasta da tecnologia 💻, sempre buscando aprender coisas novas e explorar soluções criativas. Gosto de construir projetos que não só sejam interessantes, mas que também tenham um propósito real. 🚀
 
-<img height="20" alt="GIF" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
-<div align="justify">
-Minhas habilidades incluem programação em C, Java e Javascript, além de trabalhar com bancos de dados MySQL e MongoDB. Destaco-me pela eficiência no desenvolvimento em C, pela construção de soluções robustas com microsserviços em Java com Spring e pela proficiência em Javascript para aplicações web modernas. Já trabalhei com suporte técnico, oferecendo assistência qualificada aos usuários, resolvendo problemas relacionados à rede e configurações de sistemas operacionais Linux e Windows, oferecendo suporte na instalação e manutenção de software e hardware. Também já trabalhei com alguns sistemas específicos como SAP, WMS, Fluig e Tiflux. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos construir algo incrível juntos?
-</div>
+## 💼 Experiências Acadêmicas e Técnicas
 
------
+- 🏎️ **Projetista Eletrônico na [Fórmula Cefast](https://www.instagram.com/formulacefast/)**  
+  Jan 2025 - Presente · Belo Horizonte - MG  
+  Projetista de módulos eletrônicos para o carro da equipe Fórmula SAE. Utilização de Altium Designer, microcontroladores STM32 e desenvolvimento de sistemas embarcados.  
+  Ferramentas: `Altium Designer`, `STM32`, `CAN`, `Hardware Testing`
 
-<div>
-<div>
-<img align="right" alt="GIF" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
-</div>
+- 👨‍🏫 **Monitor de Algoritmos e Estrutura de Dados I na [PUC Minas](https://www.pucminas.br)**  
+  Ago 2024 - Nov 2024 · Belo Horizonte - MG  
+  Apoio aos alunos na compreensão de conceitos fundamentais, práticas com linguagem C, e desenvolvimento de algoritmos. A monitoria reforçou minha didática, paciência e domínio técnico.  
+  Habilidades: `Programação em C`, `Didática`, `Comunicação`, `Resolução de Problemas`
 
-<img height="20" alt="GIF" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
+## ⚡️ Meus interesses: 
 
-<div align="justify">
-<p>
-- :necktie: &nbsp; Trabalho como Assistente de TI há 1 ano.<br />
-- :man_student: &nbsp; Sou estudante de ADS - Análise e Desenvolvimento de Sistemas.<br />
-- :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
-- :soccer:&nbsp; Sou cruzeirense, lógico! 🦊<br />
-- :basketball: &nbsp; Também gosto bastante de volêi/NBA.<br />
-- :airplane: &nbsp; Adoro viajar e conhecer novos lugares.<br />
-- :video_game: &nbsp; Gosto de jogar Minecraft nas horas vagas.<br />
-- :policeman: &nbsp; Já servi ao exército brasileiro.<br />
-- :parrot: &nbsp; Meu pet é uma cacatua com um belo topete.<br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:davidson.afg@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/Daniel180606/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
-</p>
-</div>
-</div>
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Eu curto demais:
+  - 🌐 Web Development
+  - 📱 App Development
+  - 🛠 DIY Raspberry Pi Projects
+  - 🤖 Robotics
+- 👯 Estou a disposição para ajudar, contribuir e desenvolver projetos de hardware.
+- 💬 Pergunte-me sobre Python, Django, React, Linux, Arduino e Raspberry Pi
+- 📙 Da uma olhada no meu [Currículo](https://bernardorocha.me) e no meu [Portifólio](https://bernardorocha.com)
+- 🎉 Curiosidade: Eu ❤️ Filmes e Séries 🎬 e Viajar ✈️
 
------
+### 📄 Acesse meu Currículo e Portfólio
 
-<div>
+[![📘 Currículo](https://img.shields.io/badge/Currículo-bernardorocha.me-blue?style=for-the-badge&logo=readme&logoColor=white)](https://bernardorocha.me)
+[![🌐 Portfólio](https://img.shields.io/badge/Portfólio-bernardorocha.com-brightgreen?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://bernardorocha.com)
+  
+### 🖥️ Meu Setup
+<img src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=social"> <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
 
-<img height="20" alt="GIF" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+### 🛠️ Ferramentas e Tecnologias que eu uso
+![Python](https://img.shields.io/badge/Python-FECE00?style=flat&logo=Python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat&logo=javascript)
+![Nodejs](https://img.shields.io/badge/Nodejs-555555?style=flat&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-555555?style=flat&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=flat-square&logo=pi-hole&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white)
 
-<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/python.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/c.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cpp.svg"/></a></code> 
-&nbsp;
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/java.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/html.svg"/></a></code>
-&nbsp; 
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/css.svg"/></a></code>
-&nbsp; 
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/js.png"/></a></code>
-&nbsp; 
-<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/react.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/mysql.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/mongodb.png"/></a></code>
-&nbsp; 
-<code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/dbeaver.png"/></a></code>
-&nbsp; 
-<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/nodejs.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/docker.png"/></a></code>
-&nbsp; 
-<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/aws.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/postman.png"/></a></code>
-&nbsp; 
-<code><a href="https://insomnia.rest/" target="_blank"><img width="32" height="32" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/insomnia.png"/></a></code>
-&nbsp; 
-<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/git.png"/></a></code>
-&nbsp; 
-<code><a href="https://about.gitlab.com/" target="_blank"><img width="32" height="32" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/gitlab.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/intellij.png"/></a></code>
-&nbsp; 
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/vs.png"/></a></code>
-</div>
-
------
-
-<img height="20" alt="GIF" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
-
-<div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniel180606&theme=github_dark"/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daniel180606&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daniel180606&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daniel180606&theme=github_dark"/>
-</div>
-
------
-
-<div>
-<div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/spotify.gif?raw=true"/> Davidson's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=315wxb3gkvxvtiqzvc2u7zdejq6a" alt="Data Card for Spotify">
-</details>
-</div>
-<div>
-<!--- <a href="https://twitter.com/Daniel180606" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=Daniel180606"/></a> -->
-<a href="https://www.last.fm/pt/user/Daniel180606" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=Daniel180606&width=400"/></a>
-<div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=315wxb3gkvxvtiqzvc2u7zdejq6a&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=315wxb3gkvxvtiqzvc2u7zdejq6a&count=10"/>
-</div>
-</div>
-
------
-
-<div>
-<table align="right">
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-<tr>
-<td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.com/Daniel180606/Daniel180606/blob/main/img/pythonmg.png?raw=true" width="70px" height="70px"/></a></td>
-</tr>
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-</table>
-<img src="https://img.shields.io/badge/Python-Aspira-blue?logo=Python"/>
-<img src="https://img.shields.io/badge/Java-Dev-blue"/>
-<img src="https://img.shields.io/badge/C-Enthusiast-blue"/>
-<img src="https://img.shields.io/badge/TDD-Advocate-blue"/>
-<img src="https://img.shields.io/badge/Clean%20Code-Evangelist-blue"/>
-<img src="https://img.shields.io/badge/Open%20Source-Lover-blue?logo=opensourceinitiative"/>
-<br />
-<img src="https://img.shields.io/badge/Flask-Dev-blue?logo=Flask"/>
-<img src="https://img.shields.io/badge/FastAPI-Dev-blue?logo=FastAPI"/>
- <img src="https://img.shields.io/badge/JavaScript-Dev-blue?logo=javascript"/>
-<img src="https://img.shields.io/badge/Node.js-Dev-blue?logo=Node.js"/>
-<img src="https://img.shields.io/badge/Next.js-Dev-blue?logo=Next.js"/>
-<img src="https://img.shields.io/badge/AWS-Dev-blue?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Docker-Dev-blue?logo=docker"/>
-<img src="https://img.shields.io/badge/Grafana-Dev-blue?logo=grafana"/>
-<img src="https://img.shields.io/badge/New%20Relic-Dev-blue?logo=newrelic"/>
-<a href="https://github.com/pythonmg" target="_blank"><img alt="Python-MG" src="https://img.shields.io/badge/Siga%20a%20comunidade%20mineira%20de%20python%3A-Python--MG-blue?logo=Python"/></a>
-<img src="https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white"/>
-<br />
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Daniel180606"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/Daniel180606/Daniel180606?logo=git"/>
-<a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
-<br />
-<img alt="Followers" src="https://img.shields.io/github/followers/Daniel180606?style=social"/>
-<img alt="Stars" src="https://img.shields.io/github/stars/Daniel180606?style=social"/>
-</div>
-
------
-
-<div>
-<a href="https://www.linkedin.com/in/Daniel180606/" target="_blank"><img alt"Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:davidson.afg@gmail.com" target="_blank"><img alt"Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/5531992259540" target="_blank"><img alt"WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://discordapp.com/users/287784703963168768" target="_blank"><img alt"Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://open.spotify.com/user/315wxb3gkvxvtiqzvc2u7zdejq6a?si=45c49575a1ba4cb7&nd=1&dlsi=7f9a4570be91417c" target="_blank"><img alt"Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
-<a href="https://www.instagram.com/davidson_faria/" target="_blank"><img alt"Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</div>
-
-<div>
-<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/Daniel180606/Daniel180606/blob/main/img/footer-gray.gif?raw=true"/>
-</div>
-
-
-
-
-
-# Perfil GitHub - [Daniel]
-
----
-
-## 👋 Olá, mundo!
-
-Bem-vindo ao meu espaço digital! Sou [Daniel], um apaixonado por Ciência da Computação e estudante na PUC Minas. Atualmente, estou imerso no universo da programação, explorando desde o front-end até linguagens de baixo nível, como C.
-
----
-
-## 💼 Experiência e Projetos
-
-**Desenvolvedor Front-End | Empresa XPTO**  
-*Período: [Data de Início] - [Data de Término]*
-
-Nesta posição, tive a oportunidade de aprimorar minhas habilidades em HTML, CSS e JavaScript, trabalhando no desenvolvimento de interfaces atraentes e responsivas. Colaborei em projetos cruciais, como [Projeto X], onde liderei a implementação de recursos interativos.
-
-**Sistema de Controle de Estoque | Projeto Acadêmico**  
-*Período: [Data de Início] - [Data de Término]*
-
-Em equipe, desenvolvi um sistema robusto em linguagem C para controle de estoque, aplicando conceitos essenciais de estruturas de dados e algoritmos. A experiência proporcionou uma compreensão mais profunda do desenvolvimento de software em nível de sistema.
-
----
-
-## 🚀 Habilidades
-
-- **Linguagens de Programação:** HTML, CSS, JavaScript, C
-- **Desenvolvimento Front-End:** React.js, Vue.js
-- **Banco de Dados:** MySQL, MongoDB
-- **Controle de Versão:** Git, GitHub
-
----
-
-## 📚 Educação
-
-**Ciência da Computação | PUC Minas**  
-*Período: [Ano de Início] - Presente*
-
-Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estruturas de dados e paradigmas de programação. Estou sempre buscando aprender e aplicar novas tecnologias para melhorar minhas habilidades técnicas.
-
----
-
-## 🌐 Redes Sociais
-
-- [LinkedIn](https://www.linkedin.com/in/seunome)
-- [Twitter](https://twitter.com/seunome)
-
----
-
-## 💡 Interesses
-
-- Desenvolvimento Web
-- Algoritmos e Estruturas de Dados
-- Programação de Sistemas
-
----
-
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](URL_DA_IMAGEM)
-
----
-
-## 🤝 Let's Connect!
-
-Estou aberto a colaborações e oportunidades emocionantes! Se você está procurando um desenvolvedor dedicado e entusiasmado, sinta-se à vontade para entrar em contato.
-
-*Vamos construir algo incrível juntos!* 👨‍💻✨
+<!-- Inspirado no https://github.com/Defcon27/Defcon27/blob/master/README.md --> 
