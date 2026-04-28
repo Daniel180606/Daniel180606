@@ -26,7 +26,7 @@ Sou um entusiasta da tecnologia 💻, sempre em busca de novos desafios e aprend
   Desenvolvimento de sistemas em **C**, **C++** e **Java** para disciplinas como Algoritmos, Estrutura de Dados e Programação Orientada a Objetos. Criação de soluções eficientes para problemas computacionais e trabalhos práticos da faculdade.
 
 - 📚 **Monitoria Acadêmica (Em breve)**  
-  Pretendo me tornar monitor de disciplinas como Algoritmos ou Estrutura de Dados para ajudar outros alunos e reforçar meus conhecimentos.
+  Pretendo me tornar monitor de disciplinas como Banco de dados para ajudar outros alunos e reforçar meus conhecimentos.
 
 - 🎯 **Participação em Grupos de Estudo**  
   Integrante de grupos de estudo focados em programação competitiva e resolução de problemas lógicos dentro da universidade.
