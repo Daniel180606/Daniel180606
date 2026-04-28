@@ -9,7 +9,7 @@
 </h1>
 
 ### 📬 Contate-me
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/bernardovieirarocha)](https://github.com/bernardovieirarocha) 
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/bernardovieirarocha)](https://github.com/Daniel180606) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardovrocha/)](https://www.linkedin.com/in/bernardovrocha/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardo.rocha.676403@sga.pucminas.br)](mailto:bernardo.rocha.676403@sga.pucminas.br)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bbernardo.rocha/)](https://www.instagram.com/bbernardo.rocha/)
