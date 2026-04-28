@@ -2,75 +2,63 @@
   <img width="100px" src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-221.gif" alt="Olá!" />
 </p>
 
-<h1>Olá!, Eu sou o <a href="https://github.com/Daniel180606">Daniel</a> 
-  <img width="50px" src="https://www.icegif.com/wp-content/uploads/icegif-5550.gif" alt="Olá!" />
-</p>
-</h1>
+<h1>Olá!, Eu sou o <a href="https://github.com/Daniel180606">Daniel Bueno Lacerda</a> 
+  <img width="50px" src="https://www.icegif.com/wp-content/uploads/icegif-5550.gif" alt="Code!" />
 </h1>
 
 ### 📬 Contate-me
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Daniel180606)](https://github.com/Daniel180606) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniel.lacerda.1524990@sga.pucminas.br)](mailto:daniel.lacerda.1524990@sga.pucminas.br)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_daniel10lacerda/)](https://www.instagram.com/_daniel10lacerda/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-lacerda-/)](https://www.linkedin.com/in/daniel-lacerda-/)
 
 ### Um pouco sobre mim... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-Atualmente, estou cursando:
+Tenho **19 anos** e sou apaixonado por computação desde cedo. Atualmente, estou no **4º período** de:
 
-- Ciência da Computação [@Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br)  
-- Engenharia de Computação [@Centro Federal de Educação Tecnológica de Minas Gerais](https://www.cefetmg.br)
+- **Ciência da Computação** [@Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br)  
 
-Sou um entusiasta da tecnologia 💻, sempre buscando aprender coisas novas e explorar soluções criativas. Gosto de construir projetos que não só sejam interessantes, mas que também tenham um propósito real. 🚀
+Sou um entusiasta da tecnologia 💻, sempre em busca de novos desafios e aprendizados. Gosto de transformar ideias em código e resolver problemas de forma criativa. 🚀
 
-## 💼 Experiências Acadêmicas e Técnicas
+## 💼 Experiências Acadêmicas e Projetos
 
-- 🏎️ **Projetista Eletrônico na [Fórmula Cefast](https://www.instagram.com/formulacefast/)**  
-  Jan 2025 - Presente · Belo Horizonte - MG  
-  Projetista de módulos eletrônicos para o carro da equipe Fórmula SAE. Utilização de Altium Designer, microcontroladores STM32 e desenvolvimento de sistemas embarcados.  
-  Ferramentas: `Altium Designer`, `STM32`, `CAN`, `Hardware Testing`
+- 👨‍💻 **Desenvolvedor em Projetos Acadêmicos**  
+  Desenvolvimento de sistemas em **C**, **C++** e **Java** para disciplinas como Algoritmos, Estrutura de Dados e Programação Orientada a Objetos. Criação de soluções eficientes para problemas computacionais e trabalhos práticos da faculdade.
 
-- 👨‍🏫 **Monitor de Algoritmos e Estrutura de Dados I na [PUC Minas](https://www.pucminas.br)**  
-  Ago 2024 - Nov 2024 · Belo Horizonte - MG  
-  Apoio aos alunos na compreensão de conceitos fundamentais, práticas com linguagem C, e desenvolvimento de algoritmos. A monitoria reforçou minha didática, paciência e domínio técnico.  
-  Habilidades: `Programação em C`, `Didática`, `Comunicação`, `Resolução de Problemas`
+- 📚 **Monitoria Acadêmica (Em breve)**  
+  Pretendo me tornar monitor de disciplinas como Algoritmos ou Estrutura de Dados para ajudar outros alunos e reforçar meus conhecimentos.
 
-## ⚡️ Meus interesses: 
+- 🎯 **Participação em Grupos de Estudo**  
+  Integrante de grupos de estudo focados em programação competitiva e resolução de problemas lógicos dentro da universidade.
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Eu curto demais:
-  - 🌐 Web Development
-  - 📱 App Development
-  - 🛠 DIY Raspberry Pi Projects
-  - 🤖 Robotics
-- 👯 Estou a disposição para ajudar, contribuir e desenvolver projetos de hardware.
-- 💬 Pergunte-me sobre Python, Django, React, Linux, Arduino e Raspberry Pi
-- 📙 Da uma olhada no meu [Currículo](https://bernardorocha.me) e no meu [Portifólio](https://bernardorocha.com)
-- 🎉 Curiosidade: Eu ❤️ Filmes e Séries 🎬 e Viajar ✈️
+## ⚡️ Meus interesses:
 
-### 📄 Acesse meu Currículo e Portfólio
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> O que eu curto:
+  - 🌐 Desenvolvimento Web
+  - 📱 Criação de Apps
+  - 🎮 Game Development
+  - 📊 Banco de Dados
+- 👯 Estou aberto a colaborar em projetos open source e trabalhos em equipe na faculdade.
+- 💬 Pergunte-me sobre **C, C++, Java, lógica de programação e estrutura de dados**.
+- 🎉 Curiosidade: Eu ❤️ **futebol** ⚽ e sou fã de **música sertaneja** 🎶. Também curto jogos online e descobrir novas tecnologias!
 
-[![📘 Currículo](https://img.shields.io/badge/Currículo-bernardorocha.me-blue?style=for-the-badge&logo=readme&logoColor=white)](https://bernardorocha.me)
-[![🌐 Portfólio](https://img.shields.io/badge/Portfólio-bernardorocha.com-brightgreen?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://bernardorocha.com)
-  
 ### 🖥️ Meu Setup
-<img src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=social"> <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
+<img src="https://shields.io/badge/Windows-0078D6?logo=Windows&style=social"> 
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"> 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"> 
 
-### 🛠️ Ferramentas e Tecnologias que eu uso
-![Python](https://img.shields.io/badge/Python-FECE00?style=flat&logo=Python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b)
+### 🛠️ Tecnologias que uso/estudo
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat&logo=javascript)
-![Nodejs](https://img.shields.io/badge/Nodejs-555555?style=flat&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-555555?style=flat&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=flat-square&logo=pi-hole&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white)
 
-<!-- Inspirado no https://github.com/Defcon27/Defcon27/blob/master/README.md --> 
+### 📊 Estatísticas do GitHub
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel180606&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel180606&layout=compact&theme=dracula)
