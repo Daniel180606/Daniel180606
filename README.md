@@ -14,7 +14,7 @@
 
 ### Um pouco sobre mim... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-Tenho **19 anos** e sou apaixonado por computação desde cedo. Atualmente, estou no **4º período** de:
+Tenho **20 anos** e sou apaixonado por computação desde cedo. Atualmente, estou no **4º período** de:
 
 - **Ciência da Computação** [@Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br)  
 
@@ -28,8 +28,8 @@ Sou um entusiasta da tecnologia 💻, sempre em busca de novos desafios e aprend
 - 📚 **Monitoria Acadêmica (Em breve)**  
   Pretendo me tornar monitor de disciplinas como Banco de dados para ajudar outros alunos e reforçar meus conhecimentos.
 
-- 🎯 **Participação em Grupos de Estudo**  
-  Integrante de grupos de estudo focados em programação competitiva e resolução de problemas lógicos dentro da universidade.
+- 🎯 **Estágio**  
+  Atualmente, faço estágio no Tribunal de Contas MG, na área de sistemas.
 
 ## ⚡️ Meus interesses:
 
@@ -38,7 +38,6 @@ Sou um entusiasta da tecnologia 💻, sempre em busca de novos desafios e aprend
   - 📱 Criação de Apps
   - 🎮 Game Development
   - 📊 Banco de Dados
-- 👯 Estou aberto a colaborar em projetos open source e trabalhos em equipe na faculdade.
 - 💬 Pergunte-me sobre **C, C++, Java, lógica de programação e estrutura de dados**.
 - 🎉 Curiosidade: Eu ❤️ **futebol** ⚽ e sou fã de **música sertaneja** 🎶. Também curto jogos online e descobrir novas tecnologias!
 
