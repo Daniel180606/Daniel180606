@@ -54,6 +54,4 @@ Modelagem de dados, criação de consultas SQL e desenvolvimento de atividades a
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
-### 📊 Estatísticas do GitHub
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel180606&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel180606&layout=compact&theme=dracula)
+
