@@ -38,7 +38,7 @@ Modelagem de dados, criação de consultas SQL e desenvolvimento de atividades a
   - Desenvolvimento de Software
   - Banco de Dados
 - 💬 Pergunte-me sobre **C, C++, Java, lógica de programação e estrutura de dados**.
-- 🎉 Curiosidade: Eu amo **futebol**, sou cruzeirense ![Cruzeiro](https://img.shields.io/badge/Cruzeiro-003DA-square e sou fã de **música sertaneja** . Também curto jogos online como fifa e minecraft e descobrir novas tecnologias!
+- 🎉 Curiosidade: Eu amo **futebol**, sou cruzeirense ![Cruzeiro](https://img.shields.io/badge/Cruzeiro-003DA-square) e sou fã de **música sertaneja** . Também curto jogos online como fifa e minecraft e descobrir novas tecnologias!
 
 ### 🖥️ Meu Setup
 <img src="https://shields.io/badge/Windows-0078D6?logo=Windows&style=social"> 
