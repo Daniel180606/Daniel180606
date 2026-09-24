@@ -6,7 +6,7 @@
   <img width="50px" src="https://www.icegif.com/wp-content/uploads/icegif-5550.gif" alt="Code!" />
 </h1>
 
-### 📬 Contate-me
+### Contate-me
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Daniel180606)](https://github.com/Daniel180606) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniel.lacerda.1524990@sga.pucminas.br)](mailto:daniel.lacerda.1524990@sga.pucminas.br)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_daniel10lacerda/)](https://www.instagram.com/_daniel10lacerda/)
@@ -17,20 +17,20 @@ Tenho **20 anos** e sou apaixonado por computação desde cedo. Atualmente, esto
 
 - **Ciência da Computação** [@Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br)  
 
-Sou um entusiasta da tecnologia 💻, sempre em busca de novos desafios e aprendizados. Gosto de transformar ideias em código e resolver problemas de forma criativa. 🚀
+Sou um entusiasta da tecnologia, sempre em busca de novos desafios e aprendizados. Gosto de transformar ideias em código e resolver problemas de forma criativa. 🚀
 
-## 💼 Experiências Acadêmicas e Projetos
+##  Experiências Acadêmicas e Projetos
 
-- 👨‍💻 **Desenvolvedor em Projetos Acadêmicos**  
+- **Desenvolvedor em Projetos Acadêmicos**  
   Desenvolvimento de sistemas em **C**, **C++** e **Java** para disciplinas como Algoritmos, Estrutura de Dados e Programação Orientada a Objetos. Criação de soluções eficientes para problemas computacionais e trabalhos práticos da faculdade.
 
-- 📚 **Monitoria Acadêmica (Em breve)**  
-  Pretendo me tornar monitor de disciplinas como Banco de dados para ajudar outros alunos e reforçar meus conhecimentos.
+- **Estudos e Projetos em Banco de Dados**
+Modelagem de dados, criação de consultas SQL e desenvolvimento de atividades acadêmicas envolvendo bancos de dados relacionais. Aplicação de conceitos de normalização e manipulação de dados.
 
-- 🎯 **Estágio**  
-  Atualmente, faço estágio no Tribunal de Contas MG, na área de sistemas.
+- **Estágio**  
+  Atualmente, faço estágio no Tribunal de Contas MG, na área de Diretoria de Tecnologia da Informação (DTI).
 
-## ⚡️ Meus interesses:
+## Meus interesses:
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> O que eu curto:
   - 🌐 Desenvolvimento Web
