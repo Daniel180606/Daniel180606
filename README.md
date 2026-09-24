@@ -11,7 +11,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniel.lacerda.1524990@sga.pucminas.br)](mailto:daniel.lacerda.1524990@sga.pucminas.br)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_daniel10lacerda/)](https://www.instagram.com/_daniel10lacerda/)
 
-### Um pouco sobre mim... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+### Um pouco sobre mim... <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemk1MTFqcGprOXY1aTEwMTBsMjE5c3VnMzZseHdsZGNqNXN4aHA5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w9WS1R9ZAA1Ik/giphy.gif)" width="50">
 
 Tenho **20 anos** e sou apaixonado por computação desde cedo. Atualmente, estou no **4º período** de:
 
