@@ -33,12 +33,12 @@ Modelagem de dados, criação de consultas SQL e desenvolvimento de atividades a
 ## Meus interesses:
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> O que eu curto:
-  - 🌐 Desenvolvimento Web
-  - 📱 Criação de Apps
-  - 🎮 Game Development
-  - 📊 Banco de Dados
+  - Desenvolvimento Web
+  - Criação de Apps
+  - Desenvolvimento de Software
+  - Banco de Dados
 - 💬 Pergunte-me sobre **C, C++, Java, lógica de programação e estrutura de dados**.
-- 🎉 Curiosidade: Eu ❤️ **futebol** ⚽ e sou fã de **música sertaneja** 🎶. Também curto jogos online e descobrir novas tecnologias!
+- 🎉 Curiosidade: Eu amo **futebol** cruzeirense e sou fã de **música sertaneja** . Também curto jogos online como fifa e minecraft e descobrir novas tecnologias!
 
 ### 🖥️ Meu Setup
 <img src="https://shields.io/badge/Windows-0078D6?logo=Windows&style=social"> 
